@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
 font-family: 'Lato' , sans-serif;
 padding: 0;
@@ -201,7 +204,7 @@ height: 100px;
     cursor: pointer;
     font-size: 20px;
 }
-.productButton{
+/* .productButton{
     float: right;
     padding: 10px 20px;
     background-color: black;
@@ -215,7 +218,7 @@ cursor: pointer;
     color: black;
 }
 
-
+ */
 
 
 
